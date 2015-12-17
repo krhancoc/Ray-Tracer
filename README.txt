@@ -57,24 +57,5 @@ With recursion being used for reflection.
 
 User knows C++ to create scenes to be rendered.
 
-=== 7. DECLARATION AND IMAGE PERMISSION: ===
 
-<Initial the following:>
-
-KR I have read the regulations regarding plagarism. I affirm with my initials
-that I have worked on my own solution to this assignment, and the code I am
-submitting is my own.
-
-<Mark with an X if desired. No marks will be deducted either way>
-
-X I grant the instructor and/or TAs permission to use images submitted and/or
-   assignment screenshots for future CPSC453 courses.
-
-__ If permission has been granted above, I would prefer the images to remain 
-   annonymous. <Otherwise credit will be given, as is due>
-
-X I would like to participate in the raytracer competition. <Competition entries will
-   not be annonymous and credited accordingly. Specify which images are for consideration,
-   otherwise all will be considered.> 
-
-__
+Grade Recieved: 108%
