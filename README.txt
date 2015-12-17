@@ -33,7 +33,6 @@ With recursion being used for reflection.
 1.  README
 2.  brdf.h/.cpp
 3. camera.h/.cpp
-4. intersection.h/.cpp
 5. ipoint.h/.cpp
 6. lights.h/.cpp
 7. material.h/.cpp
